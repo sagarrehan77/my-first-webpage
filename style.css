@@ -1,0 +1,39 @@
+.navbar {
+    display: flex;
+    justify-content: space-around;
+    padding: 20px;
+    border: 0px solid;
+
+    box-shadow: 2px 7px #888888;
+
+}
+
+.udemy {
+    font-size: larger;
+    font-weight: 900;
+}
+
+.menu-items {
+    color: rgb(225, 11, 129);
+}
+
+.search {
+    border-radius: 10px;
+    border: 2px solid green;
+}
+
+.box-1 {
+    border: 1px solid black;
+    padding: 5px 10px;
+}
+
+.box-2 {
+    border: 1px solid black;
+    padding: 5px 10px;
+    background: black;
+    color: aliceblue;
+}
+
+.main {
+    margin: 10px 120px;
+}
